@@ -76,7 +76,7 @@ export const fortStoryBeats: FortStoryBeat[] = [
   {
     messageId: "fort_story_007",
     sender: "me",
-    text: "我正好和机主一天生日，看着密码提示顺手一输入没想到真打开了",
+    text: "我正好和你同一天生日，看着密码提示顺手一输入，没想到真打开了",
   },
   {
     messageId: "fort_story_008",
